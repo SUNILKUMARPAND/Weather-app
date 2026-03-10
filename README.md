@@ -3,3 +3,5 @@ A Weather App is a web application that provides users with real-time weather in
 The application is commonly built using HTML, CSS, and JavaScript for the user interface and functionality. It retrieves weather data from an external weather API, such as OpenWeatherMap API, and displays the information dynamically on the webpage.
 
 The app updates the weather details instantly when the user enters a city name, providing accurate and easy-to-understand weather information.
+
+Visit My Website - https://spontaneous-babka-c41513.netlify.app/
